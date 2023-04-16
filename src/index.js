@@ -28,4 +28,4 @@ const myFileDeleter = async (fileName) => {
 
 
 
-module.exports = { myFileWriter, myFileUpdater, myFileReader, myFileDeleter 
+module.exports = { myFileWriter, myFileUpdater, myFileReader, myFileDeleter }
